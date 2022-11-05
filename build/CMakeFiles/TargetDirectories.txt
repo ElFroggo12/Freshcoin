@@ -1,0 +1,3 @@
+C:/Users/cesar/OneDrive/Documents/0Projects/Freshcoin/build/CMakeFiles/BchainAppBinary.dir
+C:/Users/cesar/OneDrive/Documents/0Projects/Freshcoin/build/CMakeFiles/edit_cache.dir
+C:/Users/cesar/OneDrive/Documents/0Projects/Freshcoin/build/CMakeFiles/rebuild_cache.dir
